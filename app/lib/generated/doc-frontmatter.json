@@ -1,0 +1,266 @@
+{
+  "en/CTF/Basic/ELF Explained - From Structure and Format to Relocation & Linking.mdx": {
+    "cover": "[[kr/CTF/Basic/assets/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지/image-20231010161636907.png]]"
+  },
+  "en/Compiler/Compiler - Index.mdx": {
+    "cover": null
+  },
+  "en/Compiler/Jump to compiler.mdx": {
+    "cover": "[[kr/컴파일러/assets/컴파일러로 점프!/Screenshot 2024-02-13 at 21.32.39 (1).jpg]]"
+  },
+  "en/Network/What is VPN - (Simple explanation from PN and IPSEC to  why VPN isn't safe).mdx": {
+    "cover": "[[kr/네트워크/assets/가볍게 알아보는 VPN의 본질 - (PN 부터, IPSEC, VPN이 왜 안전하지 않은지 까지)/image-20240414123421979.png]]"
+  },
+  "en/OS/Interrupt, Trap, Exception.. What's the difference - OS event(1).mdx": {
+    "cover": "[[kr/운영체제/assets/인터럽트, 트랩, 예외.. 결론은 이벤트(1) - 운영체제 이벤트/Pasted image 20231216141316.png]]"
+  },
+  "en/OS/Let's start with Bare-metal(1) - How computer actually boot.mdx": {
+    "cover": "[[kr/운영체제/assets/베어메탈 부터(1) - BIOS 부트 Boot Loader까지/Pasted image 20231203165134.png]]"
+  },
+  "en/OS/Let's start with Bare-metal(2) - Write your own Bootloader.mdx": {
+    "cover": "[[kr/운영체제/assets/가상화, QEMU와 KVM코드를 중심으로 보기(QEMU 만들어 보기)/image-20231128184134639.png]]"
+  },
+  "en/OS/OS - Index.mdx": {
+    "cover": null
+  },
+  "en/OS/Virtualization - Review QEMU & KVM code and Make your own QEMU.mdx": {
+    "cover": "[[kr/운영체제/assets/가상화, QEMU와 KVM코드를 중심으로 보기(QEMU 만들어 보기)/image-20231128202415508.png]]"
+  },
+  "en/Review/Paper Review - Memory Barriers a Hardware View for Software Hackers.mdx": {
+    "cover": "[[kr/기록/논문/assets/Paper Review - Memory Barriers a Hardware View for Software Hackers/image-20240126111231050.png]]"
+  },
+  "en/Tips/LazyVim Install & Setup.mdx": {
+    "cover": "[[kr/지식나눔/assets/LazyVim 설치 및 설정하기/image-20231111185327420.png]]"
+  },
+  "en/Tips/Setting Obsidian Digital Garden(Make your own blog with Obsidian).mdx": {
+    "cover": null
+  },
+  "en/index.mdx": {
+    "cover": null
+  },
+  "jp/CTF/Basic/ELF ファイル形式からRelocation Linkingまで.mdx": {
+    "cover": "[[kr/CTF/Basic/assets/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지/image-20231010161636907.png]]"
+  },
+  "jp/OS/OS - 目次.mdx": {
+    "cover": null
+  },
+  "jp/OS/ベアメタル(Bare-metal)から(1) - BIOS、ブート過程とブートローダー作成.mdx": {
+    "cover": "[[kr/운영체제/assets/베어메탈 부터(1) - BIOS 부트 Boot Loader까지/Pasted image 20231203165134.png]]"
+  },
+  "jp/OS/ベアメタル(Bare-metal)から(2) - Bootloader を作成してみよう.mdx": {
+    "cover": "[[kr/운영체제/assets/가상화, QEMU와 KVM코드를 중심으로 보기(QEMU 만들어 보기)/image-20231128184134639.png]]"
+  },
+  "jp/OS/作りながら理解する仮想化、（QEMUとKVMのコードを中心に）.mdx": {
+    "cover": "[[kr/운영체제/assets/가상화, QEMU와 KVM코드를 중심으로 보기(QEMU 만들어 보기)/image-20231128202415508.png]]"
+  },
+  "jp/OS/割り込み、トラップ、例外。。。結論はイベントーOSイベント(1).mdx": {
+    "cover": "[[kr/운영체제/assets/인터럽트, 트랩, 예외.. 결론은 이벤트(1) - 운영체제 이벤트/Pasted image 20231216134833.png]]"
+  },
+  "jp/index.mdx": {
+    "cover": null
+  },
+  "jp/コンパイラ/Jump to コンパイラ.mdx": {
+    "cover": "[[kr/컴파일러/assets/컴파일러로 점프!/Screenshot 2024-02-13 at 21.32.39 (1).jpg]]"
+  },
+  "jp/コンパイラ/コンパイラー目次.mdx": {
+    "cover": null
+  },
+  "jp/ネットワーク/VPNは何か - (PN と IPSECの説明から、なぜVPNではプライバシを守れないか).mdx": {
+    "cover": "[[kr/네트워크/assets/가볍게 알아보는 VPN의 본질 - (PN 부터, IPSEC, VPN이 왜 안전하지 않은지 까지)/image-20240414123421979.png]]"
+  },
+  "jp/知識共有/LazyVimのインストールから設定まで.mdx": {
+    "cover": "[[kr/지식나눔/assets/LazyVim 설치 및 설정하기/image-20231111185327420.png]]"
+  },
+  "jp/知識共有/Obsidianで自作ブログを作ってみよう!.mdx": {
+    "cover": null
+  },
+  "jp/記録/DFRWS 2023 Challenge Write-up パート1.mdx": {
+    "cover": null
+  },
+  "jp/記録/論文を読もう - Memory Barriers a Hardware View for Software Hackers.mdx": {
+    "cover": "[[kr/기록/논문/assets/Paper Review - Memory Barriers a Hardware View for Software Hackers/image-20240126111231050.png]]"
+  },
+  "kr/C 언어/C언어 - 목차.mdx": {
+    "cover": "[[kr/C 언어/assets/C언어 - 목차/image-20231128203335533.png]]"
+  },
+  "kr/C 언어/C언어 희귀한 문법 정리.mdx": {
+    "cover": null
+  },
+  "kr/CTF/Basic/ELF 파일 구조 설명에서부터 재배치(Relocation), 링킹(Linking) 까지.mdx": {
+    "cover": "[[kr/CTF/Basic/assets/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지/image-20231010161636907.png]]"
+  },
+  "kr/CTF/Basic/GOT, PLT 부터 Dynamic Linking 까지.mdx": {
+    "cover": null
+  },
+  "kr/CTF/SECCON Beginners 2023/switchable_cat.mdx": {
+    "cover": "[[kr/CTF/SECCON Beginners 2023/assets/image-20231101125526254.png]]"
+  },
+  "kr/CTF/dreamhack/Time Machine.mdx": {
+    "cover": null
+  },
+  "kr/CTF/dreamhack/heapstack.mdx": {
+    "cover": null
+  },
+  "kr/CTF/dreamhack/multipoint.mdx": {
+    "cover": null
+  },
+  "kr/CTF/dreamhack/tiny backdoor.mdx": {
+    "cover": null
+  },
+  "kr/CTF/picoCTF/SideChannel.mdx": {
+    "cover": "[[kr/CTF/SECCON Beginners 2023/assets/image-20231101125526254.png]]"
+  },
+  "kr/CTF/pwnable.kr/syscall.mdx": {
+    "cover": "[[kr/CTF/pwnable.kr/assets/syscall/image-20231129115144726.png]]"
+  },
+  "kr/index.mdx": {
+    "cover": null
+  },
+  "kr/기록/감상평/‘나’와 ‘너’의 균형을 만드는 대화법 박재연 리플러스 인간연구소 소장.mdx": {
+    "cover": "https://img.youtube.com/vi/ZEk_eMZ6Sjo/0.jpg"
+  },
+  "kr/기록/감상평/도버 재판 영상 감상 후기.mdx": {
+    "cover": "https://img.youtube.com/vi/IOQzvKAOpi4/0.jpg"
+  },
+  "kr/기록/논문/논문 리뷰 - Memory Barriers a Hardware View for Software Hackers.mdx": {
+    "cover": "[[kr/기록/논문/assets/Paper Review - Memory Barriers a Hardware View for Software Hackers/image-20240126111231050.png]]"
+  },
+  "kr/기록/논문/논문 리뷰 및 Slack Space를 이용한 악성 코드 실습 - Experience with Viruses on UNIX Systems.mdx": {
+    "cover": "[[kr/기록/논문/assets/Slack Space를 이용한 악성 코드/Pasted image 20240410124433.png]]"
+  },
+  "kr/기록/대학원/대학원생 때 알았더라면 좋았을 것들/대학원생 때 알았더라면 좋았을 것들1.mdx": {
+    "cover": "[[kr/기록/assets/대학원생 때 알았더라면 좋았을 것들1/image-20230924151710605.png|150]]"
+  },
+  "kr/기록/독후감/권력과 진보 - 기술과 번영을 둘러싼 천년의 쟁투.mdx": {
+    "cover": "http://books.google.com/books/content?id=SYqHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  "kr/기록/독후감/소피스트적 논박에 대하여.mdx": {
+    "cover": "[[kr/기록/assets/소피스트적 논박에 대하여/image-20230924152130758.png|150]]"
+  },
+  "kr/기록/독후감/아주 평범한 사람들 (101예비경찰대대와 유대인 학살).mdx": {
+    "cover": "[[kr/기록/assets/아주 평범한 사람들 (101예비경찰대대와 유대인 학살)/image-202309241520560.png|150]]"
+  },
+  "kr/기록/독후감/에디톨로지 - 김정운.mdx": {
+    "cover": "[[kr/기록/독후감/assets/에디톨로지 - 김정운/image-20240107161320094.png|150]]"
+  },
+  "kr/기록/독후감/예루살렘의 아이히만.mdx": {
+    "cover": "[[kr/기록/assets/예루살렘의 아이히만/image-20230924151922064.png|150]]"
+  },
+  "kr/기록/독후감/우연과 필연(궁리하는 과학 6) - 자크모노.mdx": {
+    "cover": "[[kr/기록/assets/우연과 필연(궁리하는 과학 6) - 자크모노/image-20231004100306089.png|150]]"
+  },
+  "kr/기록/독후감/장하준의 경제학 강의 - 장하준.mdx": {
+    "cover": "[[kr/기록/독후감/assets/장하준의 경제학 강의 - 장하준/image-20231008183103698.png]]"
+  },
+  "kr/기록/독후감/제노사이드 - 다카노 가즈아키.mdx": {
+    "cover": "[[kr/기록/독후감/assets/제노사이드 - 다카노 가즈아키/image/ff0c8ebb4b0c50c7a87de2716e96588c_MD5.jpg]]"
+  },
+  "kr/기록/독후감/죽은 경제학자의 살아있는 아이디어 - 토드 부크홀츠 (Todd G Buchholz).mdx": {
+    "cover": "[[kr/기록/독후감/assets/죽은 경제학자의 살아있는 아이디어 - 토드 부크홀츠 (Todd G Buchholz)/b5e3140d233c9504df8529bb8146a02b_MD5.jpg]]"
+  },
+  "kr/기록/독후감/폴트 라인(Fault Lines).mdx": {
+    "cover": "[[kr/기록/assets/폴트 라인(Fault Lines)/image-20230924151815335.png|150]]"
+  },
+  "kr/기록/독후감/하루 24시간 어떻게 살 것인가(초판본)(1910년 오리지널 초판본 표지디자인) - 아놀드 베넷.mdx": {
+    "cover": "[[kr/기록/독후감/assets/하루 24시간 어떻게 살 것인가(초판본)(1910년 오리지널 초판본 표지디자인) - 아놀드 베넷/image/02d5cd79dfedbc29ae31dfd8d5329553_MD5.jpg|150]]"
+  },
+  "kr/기록/타치바나 다카시(立花隆)/나는 이런 책을 읽어 왔다 (다치바나 식 독서론, 독서술, 서재론).mdx": {
+    "cover": "[[kr/기록/assets/나는 이런 책을 읽어 왔다/image-20230924151320317.png|150]]"
+  },
+  "kr/기록/타치바나 다카시(立花隆)/자기 역사를 쓴다는 것 (역사의 흐름 속에서 개인이 삶을 기록하는 방법).mdx": {
+    "cover": "[[kr/기록/assets/자기 역사를 쓴다는 것 (역사의 흐름 속에서 개인이 삶을 기록하는 방법)/image/a8b4da3b102a07b35fe9ebd073a20715_MD5.jpg| 150]]"
+  },
+  "kr/네트워크/가볍게 알아보는 VPN에 대한 설명- (PN 부터, IPSEC, VPN이 왜 안전하지 않은지 까지).mdx": {
+    "cover": "[[kr/네트워크/assets/가볍게 알아보는 VPN의 본질 - (PN 부터, IPSEC, VPN이 왜 안전하지 않은지 까지)/image-20240414123421979.png]]"
+  },
+  "kr/알고리즘/백준/Strongly Connected Component(2150)/Strongly Connected Component(2150).mdx": {
+    "cover": null
+  },
+  "kr/알고리즘/백준/자두나무(2240)/자두나무(2240).mdx": {
+    "cover": null
+  },
+  "kr/알고리즘/백준/합분해(2225)/합분해(2225).mdx": {
+    "cover": null
+  },
+  "kr/운영체제/OS - 목차.mdx": {
+    "cover": null
+  },
+  "kr/운영체제/가상화, QEMU와 KVM코드를 중심으로 보기(QEMU 만들어 보기).mdx": {
+    "cover": "[[kr/운영체제/assets/가상화, QEMU와 KVM코드를 중심으로 보기(QEMU 만들어 보기)/image-20231128202415508.png]]"
+  },
+  "kr/운영체제/베어메탈 부터(1) - BIOS 부팅 과정과 Boot Loader작성.mdx": {
+    "cover": "[[kr/운영체제/assets/베어메탈 부터(1) - BIOS 부트 Boot Loader까지/Pasted image 20231203165134.png]]"
+  },
+  "kr/운영체제/베어메탈 부터(2) - 나만의 작은 Boot Loader 만들어보기.mdx": {
+    "cover": "[[kr/운영체제/assets/가상화, QEMU와 KVM코드를 중심으로 보기(QEMU 만들어 보기)/image-20231128184134639.png]]"
+  },
+  "kr/운영체제/인터럽트, 트랩, 예외.. 결론은 이벤트(1) - 운영체제 이벤트.mdx": {
+    "cover": "[[kr/운영체제/assets/인터럽트, 트랩, 예외.. 결론은 이벤트(1) - 운영체제 이벤트/Pasted image 20231216141316.png]]"
+  },
+  "kr/일기/2023-11-18.mdx": {
+    "cover": "[[kr/일기/assets/2023-11-18/Pasted image 20231118180259.png]]"
+  },
+  "kr/일기/2023-12-03.mdx": {
+    "cover": "[[kr/일기/assets/RX630 명령어 참고/Pasted image 20231203162748.png]]"
+  },
+  "kr/일기/2024-01-01.mdx": {
+    "cover": "[[kr/일기/assets/2024-01-01/image-20240101112811718.jpeg]]"
+  },
+  "kr/일기/2024-02-06.mdx": {
+    "cover": "[[kr/일기/assets/2024-02-06/image-20240206204104907.png]]"
+  },
+  "kr/일기/2024-03-04.mdx": {
+    "cover": "[[kr/일기/assets/2024-03-04/image-20240305191539238.png]]"
+  },
+  "kr/일기/2024-03-18.mdx": {
+    "cover": "[[kr/일기/assets/RX630 명령어 참고/Pasted image 20240318075130.png]]"
+  },
+  "kr/일기/2025-02-07 (근황 및 일정 설명).mdx": {
+    "cover": null
+  },
+  "kr/일기/2026-04-23.mdx": {
+    "cover": null
+  },
+  "kr/지식나눔/DFRWS 2023 Challenge Write-up (1).mdx": {
+    "cover": null
+  },
+  "kr/지식나눔/DFRWS 2023 Challenge Write-up (2).mdx": {
+    "cover": null
+  },
+  "kr/지식나눔/LazyVim 설치 및 설정하기.mdx": {
+    "cover": "[[kr/지식나눔/assets/LazyVim 설치 및 설정하기/image-20231111185327420.png]]"
+  },
+  "kr/지식나눔/Linux cmd/Bash.mdx": {
+    "cover": "[[kr/지식나눔/Linux cmd/assets/Bash/image-20231101191458108.png]]"
+  },
+  "kr/지식나눔/Vim 사용법 정리.mdx": {
+    "cover": "[[kr/지식나눔/assets/Vim 사용법 정리/image-20231101192238972.png]]"
+  },
+  "kr/지식나눔/tmux 사용법 정리.mdx": {
+    "cover": "[[kr/지식나눔/assets/RX630 명령어 참고/Pasted image 20231118180909.png]]"
+  },
+  "kr/지식나눔/옴시디언 사용법 정리.mdx": {
+    "cover": "[[kr/지식나눔/assets/옴시디언 사용법 정리/image-20231101191707762.png]]"
+  },
+  "kr/지식나눔/옵시디언 & PARA.mdx": {
+    "cover": "[[kr/지식나눔/assets/옴시디언 사용법 정리/image-20231101191707762.png]]"
+  },
+  "kr/지식나눔/옵시디언으로 블로그 시작하기.mdx": {
+    "cover": "[[kr/data/img/블로그이미지/_309e3b24-846f-46fc-9eb5-6a9f17ad6799.jpg]]"
+  },
+  "kr/컴파일러/컴파일러 - 목차.mdx": {
+    "cover": null
+  },
+  "kr/컴파일러/컴파일러로 점프!.mdx": {
+    "cover": "[[kr/컴파일러/assets/컴파일러로 점프!/Screenshot 2024-02-13 at 21.32.39 (1).jpg]]"
+  },
+  "kr/컴퓨터 공학 기초/컴퓨터 공학 기초 - 목차.mdx": {
+    "cover": null
+  },
+  "kr/컴퓨터 공학 기초/컴퓨터 공학 총 정리.mdx": {
+    "cover": "[[kr/컴퓨터 공학 기초/assets/컴퓨터 공학 총 정리/Pasted image 20240212212808.png]]"
+  },
+  "kr/컴퓨터 공학 기초/컴퓨터의 시작, 계산기.mdx": {
+    "cover": "[[kr/컴퓨터 공학 기초/assets/컴퓨터의 시작, 계산기/image-20231128203054999.png]]"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "deepfield",
+  "compatibility_date": "2026-04-23",
+  "compatibility_flags": ["nodejs_compat", "nodejs_als", "nodejs_compat_populate_process_env"],
+  "main": "./workers/app.ts",
+  "assets": {
+    "directory": "./build/client",
+    "not_found_handling": "none"
+  },
+  "observability": {
+    "enabled": true
+  },
+  "routes": [
+    {
+      "pattern": "deepfield.blog",
+      "custom_domain": true
+    }
+  ],
+  "env": {
+    "development": {
+      "name": "deepfield-development",
+      "vars": {
+        "DOCS_ASSET_SOURCE": "public"
+      },
+      "r2_buckets": [
+        {
+          "binding": "DOCS_ASSETS",
+          "bucket_name": "deepfield-doc-assets-dev",
+          "preview_bucket_name": "deepfield-doc-assets-dev",
+          "remote": false
+        }
+      ]
+    },
+    "production": {
+      "name": "deepfield",
+      "vars": {
+        "DOCS_ASSET_SOURCE": "r2"
+      },
+      "r2_buckets": [
+        {
+          "binding": "DOCS_ASSETS",
+          "bucket_name": "deepfield-doc-assets"
+        }
+      ],
+    }
+  }
+}

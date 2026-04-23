@@ -1,0 +1,64 @@
+@import "tailwindcss";
+@import "fumadocs-ui/css/neutral.css";
+@import "fumadocs-ui/css/preset.css";
+@import "katex/dist/katex.min.css";
+
+:root {
+  color-scheme: light;
+}
+
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  background:
+    radial-gradient(circle at top left, rgb(15 23 42 / 0.05), transparent 24%),
+    linear-gradient(180deg, #f6f0e6 0%, #fbf8f2 48%, #f4efe5 100%);
+}
+
+html.dark {
+  color-scheme: dark;
+}
+
+html.dark body {
+  background:
+    radial-gradient(circle at top left, rgb(148 163 184 / 0.09), transparent 26%),
+    linear-gradient(180deg, #0f172a 0%, #111827 52%, #0b1120 100%);
+}
+
+.prose ul,
+.prose ol {
+  padding-inline-start: 1.5rem;
+}
+
+.prose ul {
+  list-style: disc outside;
+}
+
+.prose ol {
+  list-style: decimal outside;
+}
+
+.prose li {
+  display: list-item;
+}
+
+.prose img.obsidian-image-round,
+img.obsidian-image-round {
+  border-radius: 0.75rem;
+  clip-path: inset(0 round 0.75rem);
+  overflow: hidden;
+}
+
+.prose img.mdx-previewable-image,
+img.mdx-previewable-image {
+  cursor: zoom-in;
+}
+
+.prose img.mdx-previewable-image:focus-visible,
+img.mdx-previewable-image:focus-visible {
+  outline: 2px solid var(--fd-ring);
+  outline-offset: 4px;
+}

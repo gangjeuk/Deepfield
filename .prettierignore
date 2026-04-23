@@ -1,0 +1,19 @@
+node_modules/
+
+# Build and framework output
+build/
+dist/
+.react-router/
+.source/
+
+# Generated docs and manifests
+content/docs/
+app/lib/generated/
+public/
+
+# Package manager lockfile
+pnpm-lock.yaml
+
+# Logs and local artifacts
+*.log
+.DS_Store
